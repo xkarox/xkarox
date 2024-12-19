@@ -29,7 +29,7 @@
 
 ###
 
-<p align="center">I'm Adri from Germany<br><br>- 🔭 I’m working as apprentice software developer<br>- 📚 I'm currently learning how to design software architectures<br>- ⚡ In my free time I read a lot of Manhwa</p>
+<p align="center">I'm Adri from Germany<br><br>- 🔭 I’m working as apprentice software developer<br>- 📚 I'm currently learning about software architectures<br>- ⚡ In my free time I read a lot of Manhwa</p>
 
 ###
 
