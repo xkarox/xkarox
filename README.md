@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center"> Hello World! I'm Adrian 👋</h1>
 
 ###
 
@@ -29,7 +29,15 @@
 
 ###
 
-<p align="center">I'm Adri from Germany<br><br>- 🔭 I’m working as apprentice software developer<br>- 📚 I'm currently learning about software architectures<br>- ⚡ In my free time I read a lot of Manhwa</p>
+<p align="center">I'm Adri from Germany
+<br>
+<br>- 🔭 Software Developer Apprentice crafting tomorrow’s solutions
+<br>- 🎯 Focusing on software architecture and .NET ecosystem
+<br>- 🌱 Continuous learner in the ever-evolving tech landscape
+<br>- 🐱 Cat lover who codes with feline supervision
+<br>- 💪 Always eager to tackle new challenges in software development
+<br>- ⚡ 📖 Avid Manhwa reader and tech enthusiast
+</p>
 
 ###
 
