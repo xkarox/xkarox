@@ -31,12 +31,12 @@
 
 <p align="center">I'm Adri from Germany
 <br>
-<br>- 🔭 Software Developer Apprentice crafting tomorrow’s solutions
+<br>- 🔭 Software Developer crafting tomorrow’s solutions
+<br>- 📖 Computer Science University Student
 <br>- 🎯 Focusing on software architecture 
 <br>- 🌱 Continuous learner in the ever-evolving tech landscape
 <br>- 🐱 Cat lover who codes with feline supervision
 <br>- 💪 Always eager to tackle new challenges in software development
-<br>- ⚡ 📖 Avid Manhwa reader and tech enthusiast
 </p>
 
 ###
